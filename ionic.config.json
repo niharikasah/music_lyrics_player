@@ -1,0 +1,12 @@
+{
+  "name": "mutumbu",
+  "app_id": "",
+  "type": "ionic-angular",
+  "watchPatterns": [
+    "scss/**/*"
+  ],
+  "integrations": {
+    "gulp": {},
+    "cordova": {}
+  }
+}
